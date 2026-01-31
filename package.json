@@ -1,0 +1,28 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts",
+    "problem": "ts-node src/"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagorcode/leetcode-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagorcode/leetcode-solutions/issues"
+  },
+  "homepage": "https://github.com/thiagorcode/leetcode-solutions#readme",
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
